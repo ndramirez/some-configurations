@@ -1,0 +1,15 @@
+[
+  { "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": true } },
+  { "keys": ["ctrl+shift+down"], "command": "duplicate_line" },
+  { "keys": ["ctrl+shift+up"], "command": "duplicate_line" },
+  { "keys": ["alt+shift+right"], "command": "indent" },
+  { "keys": ["alt+shift+left"], "command": "unindent"},
+  { "keys": ["alt+ctrl+f"], "command": "reindent"},
+
+  { "keys": ["alt+shift+up"], "command": "swap_line_up" },
+  { "keys": ["alt+shift+down"], "command": "swap_line_down" },
+
+  { "keys": ["ctrl+alt+s"], "command": "prompt_save_as" },
+  { "keys": ["ctrl+shift+s"], "command": "save_all" },
+  { "keys": ["ctrl+alt+b"], "command": "toggle_side_bar" },
+]
