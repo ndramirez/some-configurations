@@ -2,7 +2,7 @@
 Hello :smile:.
 
 This repository contains some basic files used by me in Sublime Text configuration when developing in Linux or Windows. They are intended to be the most common configuration used by you when you are starting to install your environment.
-It provides shortcuts and preferences (onlye that by the moment).
+It provides shortcuts and preferences (only that by the moment).
 
 #### The Keymap file:
 This file contains some shortcuts for swap lines, duplicate lines, indent code and more.
