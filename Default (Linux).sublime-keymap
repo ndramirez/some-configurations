@@ -12,4 +12,5 @@
   { "keys": ["ctrl+alt+s"], "command": "prompt_save_as" },
   { "keys": ["ctrl+shift+s"], "command": "save_all" },
   { "keys": ["ctrl+alt+b"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
 ]
