@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Color Highlighter",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements"
+	]
+}
